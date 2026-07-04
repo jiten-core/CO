@@ -29,9 +29,6 @@ export const metadata: Metadata = {
     "CO prevention",
   ],
   authors: [{ name: "CO Research Team" }],
-  icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
-  },
   openGraph: {
     title: "Carbon Monoxide (CO) — Comprehensive Scientific Report",
     description:
